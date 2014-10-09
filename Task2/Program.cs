@@ -10,7 +10,27 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            dsdsds
+            int weightByStr = 20;
+
+            Console.Write("Введите силу персонажа...");
+            string strStr = Console.ReadLine();
+            int str = int.Parse(strStr);
+
+            Console.Write("Введите вес вещей...");
+            string strWeight = Console.ReadLine();
+            int weight = int.Parse(strStr);
+
+            if (weight > str * weightByStr)
+            {
+                Console.WriteLine("Перегружен");
+            }
+            else
+            {
+                Console.WriteLine("Норма");
+            }
+            Console.ReadKey();
+
+          
         }
     }
 }

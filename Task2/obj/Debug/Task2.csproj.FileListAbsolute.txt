@@ -1,1 +1,6 @@
 I:\Origin\Saves of games\GitHub\Task2\Task2\bin\Debug\Task2.exe.config
+I:\Origin\Saves of games\GitHub\Task2\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+I:\Origin\Saves of games\GitHub\Task2\Task2\bin\Debug\Task2.exe
+I:\Origin\Saves of games\GitHub\Task2\Task2\bin\Debug\Task2.pdb
+I:\Origin\Saves of games\GitHub\Task2\Task2\obj\Debug\Task2.exe
+I:\Origin\Saves of games\GitHub\Task2\Task2\obj\Debug\Task2.pdb
