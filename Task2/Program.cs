@@ -18,7 +18,7 @@ namespace Task2
 
             Console.Write("Введите вес вещей...");
             string strWeight = Console.ReadLine();
-            int weight = int.Parse(strStr);
+            int weight = int.Parse(strWeight);
 
             if (weight > str * weightByStr)
             {
