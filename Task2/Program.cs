@@ -21,23 +21,14 @@ namespace Task2
             Console.Write("Введите 'c'...");
             string strC = Console.ReadLine();
             int c = int.Parse(strC);
+            
+            string strD = Console.ReadLine();
+            Console.Write( d = ((b * b) - (4 * a * c)));
 
-            float D = ((b * b) - (4 * a * c));
-
-
-            if (D > 0)
-            {
-
-
-                var x1 = (-b - Math.Sqrt(D)) / 2 * a;
-                Console.Write("{0} + {1} = {2}", a, b, D);
-                Console.ReadKey();
-
-            }
-                    {
-                Console.ReadKey();
-
-            }
+            Console.ReadKey();
+                
+            
+            
        }
     }
  } 
